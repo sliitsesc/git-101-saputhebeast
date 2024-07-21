@@ -1,5 +1,4 @@
-def calculate_sum(numbers)
-    # TODO: Fix any potential bugs in this code
+def calculate_sum(numbers):
     total = 0
     for num in numbers:
         total += num
